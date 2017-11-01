@@ -45,6 +45,6 @@ cut -d ',' -f 1,2,3,4,8,10,11  newengland_obesity_overall_data.csv > newengland_
 
 
 cp obesity_overall.csv ../gnuplot/obesity_overall.csv
-cp obesity_overall.csv ../gnuplot/obesity_allyears_overall.csv
-cp obesity_overall.csv ../gnuplot/newengland_overall.csv
+cp obesity_allyears_overall.csv ../gnuplot/obesity_allyears_overall.csv
+cp newengland_overall.csv ../gnuplot/newengland_overall.csv
 
